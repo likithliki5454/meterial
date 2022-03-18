@@ -1,0 +1,24 @@
+.topnav {
+    overflow: hidden;
+    background-color: rgb(160 176 177);
+    height: 4vh;
+    width: 100%;
+  }
+  
+  .topnav a {
+    padding: 10px 20vw 0 0;
+    color: #000000;
+    text-align: center;
+margin-top: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    align-items: center;
+    
+    
+  }
+ 
+  .active{
+
+    padding: 2px;
+  }
+
